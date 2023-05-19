@@ -3,5 +3,4 @@
 
 
 - ⚡ Java
-- 🖋  Writer at [leikooo] (https://blog.csdn.net/baihuaeryue)
 - ✍️ [Blogger](https://github.com/lieeew)
