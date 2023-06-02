@@ -1,12 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm leikooo</h1>
-<h3 align="center">A enginer developer from China</h3>
+<h3 align="center">大一学生</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 我最近在学习 **Spring Framework**
   
-- 📝 I regularly write articles on [掘金](https://juejin.cn/user/2441356474071421)
+- 📝 文章地址 [掘金](https://juejin.cn/user/2441356474071421)
 
-- 📫 How to reach me **liangzilixue123456@gmail.com**
+- 📫 如何联系我 **liangzilixue123456@gmail.com**
+
+- 👨‍💻 微信公众号  **leikoo的Java学习之路** 
 
  [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=lieeew&&theme=radical)]()
  
