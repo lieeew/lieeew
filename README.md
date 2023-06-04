@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm leikooo</h1>
-<h3 align="center">主Java</h3>
+<h3 align="center">目前大一</h3>
 
 - 🌱 我最近在学习 **Spring Framework**
   
