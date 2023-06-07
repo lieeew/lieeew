@@ -13,7 +13,6 @@
  [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=lieeew&&theme=radical)]()
  
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luoye6&&theme=radical&layout=compact)
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
