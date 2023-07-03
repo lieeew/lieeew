@@ -8,7 +8,7 @@
 
 - 📫 如何联系我 **liangzilixue123456@gmail.com**
 
-- 👨‍💻 微信公众号  **leikoo的Java学习之路** 
+- 👨‍💻 微信公众号  **leikooo的Java学习之路** 
 
  [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=lieeew&&theme=radical)]()
  
