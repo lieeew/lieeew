@@ -10,7 +10,7 @@
 
 - 👨‍💻 微信公众号  **leikooo的Java学习之路** 
 
- [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=lieeew&&theme=radical)]()
+ ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api/wakatime?username=lieeew)
  
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lieeew&&theme=radical&layout=compact)
 <p align="left">
