@@ -4,7 +4,7 @@
 
 - 🌱 我最近在学习 **Spring Framework**
   
-- 📝 文章地址 [掘金](https://juejin.cn/user/2441356474071421)
+- 📝 文章地址 [CSDN](https://blog.csdn.net/baihuaeryue)、[掘金](https://juejin.cn/user/2441356474071421)
 
 - 📫 如何联系我 **liangzilixue123456@gmail.com**
 
