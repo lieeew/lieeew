@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm leikooo</h1>
-<h3 align="center">目前大一</h3>
 
-- 🌱 我最近在学习 **Spring Framework**
+- 🌱 我最近在学习 **数据结构与算法**
   
 - 📝 文章地址 [CSDN](https://blog.csdn.net/baihuaeryue)、[掘金](https://juejin.cn/user/2441356474071421)
 
