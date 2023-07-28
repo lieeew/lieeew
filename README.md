@@ -11,7 +11,6 @@
 
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lieeew&&theme=radical&layout=compact)
 
- ![leikooo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lieeew&theme=radical)
  
 
 <h3 align="left">Languages and Tools:</h3>
