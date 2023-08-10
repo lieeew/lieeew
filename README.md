@@ -3,7 +3,7 @@
 
 - 🌱 I have recently been studying **data structure and algorithm**
   
-- 📝 Article address [CSDN](https://blog.csdn.net/baihuaeryue)、[掘金](https://juejin.cn/user/2441356474071421)
+- 📝 Article address [CSDN](https://blog.csdn.net/baihuaeryue)、[JUEJIN](https://juejin.cn/user/2441356474071421)
 
 - 📫 Contact me **liangzilixue123456@gmail.com**
 
