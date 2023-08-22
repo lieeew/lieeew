@@ -19,3 +19,5 @@
     <img src="https://skillicons.dev/icons?i=java,idea,github,md,mysql,html,vue,js,vscode,powershell,postman,linux,docker,nginx" />
   </a>
 </p>
+
+https://wakatime.com/badge/user/a228c760-7940-48c2-a004-cb86b5a38fbf.svg
