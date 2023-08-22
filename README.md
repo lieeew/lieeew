@@ -13,6 +13,8 @@
 
  ![](https://wakatime.com/badge/user/a228c760-7940-48c2-a004-cb86b5a38fbf.svg)
 
+![leikooo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leikooo&theme=radical)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,4 +22,3 @@
   </a>
 </p>
 
-[![leikooo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leikooo)](https://github.com/anuraghazra/github-readme-stats?username=leikooo)
