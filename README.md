@@ -10,7 +10,8 @@
 
 
  ![leikooo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leikooo&theme=radical)  
- 
+
+ <figure><embed src="https://wakatime.com/share/@leikooo/8d8a3fa4-d67b-4abe-8122-c957de526ce6.svg"></embed></figure>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
