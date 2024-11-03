@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/02bdf192-44e2-4a89-9b8e-5eeb37390fa0)
 <h1 align="center">Hi 👋, I'm leikooo</h1>
 
 - 🌱 I have recently been studying **data structure and algorithm**
@@ -8,7 +7,7 @@
 
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=lieeew&show_icons=true&theme=radical)
 
- ![leikooo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leikooo&theme=radical)  
+![leikooo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leikooo&theme=radical)  
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,4 +16,3 @@
     <img src="https://skillicons.dev/icons?i=java,idea,github,docker,md,mysql,redis,vue,js,vscode,powershell,postman,linux,nginx" />
   </a>
 </p>
-
