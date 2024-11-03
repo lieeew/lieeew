@@ -1,15 +1,12 @@
-
+![image](https://github.com/user-attachments/assets/02bdf192-44e2-4a89-9b8e-5eeb37390fa0)
 <h1 align="center">Hi 👋, I'm leikooo</h1>
 
 - 🌱 I have recently been studying **data structure and algorithm**
   
-- 📝 Article address [CSDN](https://blog.csdn.net/baihuaeryue)、[JUEJIN](https://juejin.cn/user/2441356474071421)
-
 - 📫 Contact me **liangzilixue123456@gmail.com**
-
-- ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=lieeew&show_icons=true&theme=radical)
-
 - 👨‍💻 [![wakatime](https://wakatime.com/badge/user/a228c760-7940-48c2-a004-cb86b5a38fbf.svg)](https://wakatime.com/@a228c760-7940-48c2-a004-cb86b5a38fbf)
+
+![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=lieeew&show_icons=true&theme=radical)
 
  ![leikooo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leikooo&theme=radical)  
 
