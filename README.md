@@ -9,6 +9,8 @@
 
 ![leikooo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leikooo&theme=radical)  
 
+![leikooo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leikooo\&layout=compact)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
