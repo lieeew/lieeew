@@ -7,9 +7,7 @@
 
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=lieeew&show_icons=true&theme=radical)
 
-![leikooo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leikooo&theme=radical)  
-
-![leikooo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leikooo\&layout=compact)
+![leikooo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leikooo\&layout=compact&theme=radical)
 
 
 <h3 align="left">Languages and Tools:</h3>
